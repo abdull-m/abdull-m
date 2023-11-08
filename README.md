@@ -13,10 +13,7 @@ I'm a passionate Machine Learning enthusiast and Python Developer specializing i
 • Scikit-Learn
 • Data Mining
 
-
-## Stack i work with
-
-🛠  Tech Stack
+## 🛠 Tech Stack
 Python Java  C React Django  Flask  Bootstrap
 HTML  CSS  Git  GitHub  Markdown
 Visual Studio Code  RStudio  Eclipse
