@@ -1,4 +1,4 @@
-                                                ## Hi, I'm Abdul 👋
+## Hi, I'm Abdul 👋
 
 I'm a passionate Machine Learning enthusiast and Python Developer specializing in Deep Neural Networks (DNN), Computer Vision, and Recommender Systems. 
 
