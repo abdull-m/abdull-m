@@ -6,7 +6,6 @@ I'm a passionate Machine Learning enthusiast and Python Developer specializing i
 
 - 🔭 I’m currently working on **hospital chatbot**
 
-- 📫 How to reach me **abdullyhosh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
