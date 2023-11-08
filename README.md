@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm abdul</h1>
+<h2 align="center">H2 👋, I'm abdul</h1>
 <h3 align="center">I'm a passionate Machine Learning enthusiast and Python Developer specializing in Deep Neural Networks (DNN), Computer Vision, and Recommender Systems.</h3>
 
 - 🔭 I’m currently working on **hospital chatbot**
