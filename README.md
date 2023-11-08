@@ -1,9 +1,10 @@
-<h2 align="center">H2 👋, I'm abdul</h1>
-<h3 align="center">I'm a passionate Machine Learning enthusiast and Python Developer specializing in Deep Neural Networks (DNN), Computer Vision, and Recommender Systems.</h3>
+## Hi, I'm Abdul ! 👋
+
+
+## 🚀 About Me
+I'm a passionate Machine Learning enthusiast and Python Developer specializing in Deep Neural Networks (DNN), Computer Vision, and Recommender Systems. 
 
 - 🔭 I’m currently working on **hospital chatbot**
-
-- 💬 Ask me about **Machine Learning, Python, and Deep Learning**
 
 - 📫 How to reach me **abdullyhosh@gmail.com**
 
