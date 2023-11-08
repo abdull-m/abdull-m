@@ -16,7 +16,11 @@ I'm a passionate Machine Learning enthusiast and Python Developer specializing i
 
 ## Stack i work with
 
-**Client:** React, Redux, TailwindCSS
+🛠  Tech Stack
+Python Java  C React Django  Flask  Bootstrap
+HTML  CSS  Git  GitHub  Markdown
+Visual Studio Code  RStudio  Eclipse
+Illustrator  Photoshop  InDesign
 
 
 ## 🔗 Links
