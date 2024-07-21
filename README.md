@@ -1,4 +1,5 @@
 ## Hi, I'm Abdul 👋
+Software Engineer with proficiency in Java and Python, specializing in building scalable backend solutions using Spring Boot and designing RESTful APIs. Experienced in SQL and database design with MySQL and PostgreSQL. Skilled in version control with Git. Committed to creating innovative and user-friendly applications that solve real-world problems.
 
 
 
