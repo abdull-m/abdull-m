@@ -1,8 +1,5 @@
 ## Hi, I'm Abdul 👋
 
-I'm a passionate Machine Learning enthusiast and Python Developer specializing in Deep Neural Networks (DNN), Computer Vision, and Recommender Systems. 
-
-- 🔭 I’m currently working on **a hospital chatbot**
 
 
 <h3 align="left">Connect with me:</h3>
